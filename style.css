@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  height: 937px;
+  width: 1920px;
+  background-color: blue;
+  position: relative;
+  left: 101.085px;
+  transition: transform 1s ease-in-out;
+}
+
+.box {
+  height: 937px;
+  width: 1717.83px;
+}
+
+.box-1 {
+  background-color: #c4c4c4;
+}
+
+.box-2 {
+  background-color: #6b6b6b;
+  position: absolute;
+  top: 0;
+  left: 1717.83px;
+}
+
+.box-3 {
+  background-color: #454545;
+  position: absolute;
+  top: 0;
+  left: 3435.66px;
+}
+
+.text-1 {
+  margin: 0;
+}
+
+.text-2 {
+  margin: 0;
+}
+
+.text-3 {
+  margin: 0;
+}
